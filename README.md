@@ -1,2 +1,2 @@
 # Belajar-Githup
-Bekajar githup bareng pak sugeng
+Belajar githup bareng pak sugeng
